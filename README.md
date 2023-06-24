@@ -1,4 +1,4 @@
-# Learn the Basics of Javascirpt Data Type
+# Learn the Basics of Javascirpt conditionals & loop
 
 ## Objectives
 - ▢ Memahami kegunaan dan perbedaan operator &&, ||, dan !.
