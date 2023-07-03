@@ -3,11 +3,11 @@
 
 
 // Meminta pengguna untuk memasukkan angka bulan
-var monthNumber = 1;
+var monthNumber = 6;
 
 
 
-var monthName = ["jan","feb","mar","apr","mei","agus","sep","okt","nov","des"];
+var monthName = ["jan","feb","mar","apr","mei","juni","juli","agus","sep","okt","nov","des"];
 var month;
 
 // Mengkonversi angka bulan menjadi nama bulan
@@ -58,4 +58,4 @@ switch (monthNumber) {
   }
 
 
-console.log( month= monthName);
+console.log( month);
